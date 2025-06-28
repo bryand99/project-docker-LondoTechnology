@@ -1,0 +1,11 @@
+{
+  "name": "angular-ssr",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Simulating Angular SSR build'",
+    "start": "node dist/server/main.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
